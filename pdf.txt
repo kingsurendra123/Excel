@@ -1,0 +1,5 @@
+Menu Group: VEG APPETIZERS
+Menu Item: Vegetable samosa
+Price: 6.99
+Description: savory puffs stuffed with seasoned potato
+and green peas
